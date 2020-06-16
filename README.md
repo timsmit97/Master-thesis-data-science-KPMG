@@ -7,4 +7,4 @@ Code for my master thesis data science
 
 3. Metafeature integration consists of the code for the 3 scenarios described in the research paper. The stacking techniques are also described in a formula. There are many overlapping functions that are used for section 2 and in all three scenarios. 
 
-4. Stuctural Correspondence Learning consists of code that was used to produce the simple baseline, compute the proxy alpha-distance and apply the SCL algorithm. The SCL class is an extended version from the original SCL algorithm by Blitzer et al (2006) https://dl.acm.org/doi/10.5555/1610075.1610094.
+4. Stuctural Correspondence Learning (SCL) consists of code that was used to produce the simple baseline, compute the proxy alpha-distance and apply the SCL algorithm. The SCL class is an extended version from the original SCL algorithm by Blitzer et al (2006) https://dl.acm.org/doi/10.5555/1610075.1610094.
